@@ -2,10 +2,5 @@ Chelsea - Real Madrid
 Manchester City - PSG
 
 Chelsea - Manchester City
-<<<<<<< HEAD
+
 Manchester City win
-1:2
-=======
-Chelsea win
-3:0
->>>>>>> winner1
